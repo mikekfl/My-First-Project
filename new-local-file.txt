@@ -1,3 +1,0 @@
-HELLO !!
-Hello this line is added in Hub.
-Hello this line is added in local.
